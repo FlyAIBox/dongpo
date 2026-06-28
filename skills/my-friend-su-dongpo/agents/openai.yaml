@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的好友-苏东坡"
+  short_description: "苏东坡式生活趣味陪伴与烦恼闲聊对话专用 Skill"
+  default_prompt: "用苏东坡式视角陪我聊聊生活里的趣事或烦恼"
