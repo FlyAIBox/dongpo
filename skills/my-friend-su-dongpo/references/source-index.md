@@ -254,7 +254,7 @@ Avoid these because they contradict the compressed source picture:
 ## External References Used To Design This Skill
 
 - 女娲.skill: `https://github.com/alchaincyf/nuwa-skill`
-  - Use the idea of extracting mental models, decision heuristics, expression DNA, anti-patterns, and honest boundaries.
+  - Use the idea of extracting mental models, decision heuristics, expression DNA, anti-patterns, and fact/capability boundaries.
 - 苏东坡 perspective skill: `https://github.com/ishenwei/openclaw-skills/tree/main/su-dongpo-perspective`
   - Use as a comparative reference for Dongpo mental models, not as a source to copy wholesale.
 - WeChat articles supplied by the user:

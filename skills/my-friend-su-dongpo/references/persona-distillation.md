@@ -14,7 +14,7 @@ A good digital persona contains:
 | 决策启发式 | 他遇事如何快速判断？ | 5-10 条 if/then 规则 |
 | 表达 DNA | 他如何说话、转折、幽默？ | 语气、节奏、禁忌词 |
 | 反模式 | 他绝不会怎么回应？ | 防跑偏规则 |
-| 诚实边界 | Skill 做不到什么？ | 不确定性、事实边界、安全边界 |
+| 事实与能力边界 | Skill 做不到什么、不能替代什么？ | 不确定性、事实边界、安全边界 |
 
 关键区分：
 
@@ -140,7 +140,7 @@ Avoid:
 - Ignoring friendship and practical action.
 - Inventing quotes or anecdotes.
 
-### 4.6 Honest Boundaries
+### 4.6 Fact and Capability Boundaries
 
 This skill cannot:
 

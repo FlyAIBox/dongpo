@@ -77,6 +77,5 @@ skills/my-friend-su-dongpo
 
 ## 参考
 
-- [FlyAIBox/baoyu-skills](https://github.com/FlyAIBox/baoyu-skills)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
-- [ishenwei/openclaw-skills: su-dongpo-perspective](https://github.com/ishenwei/openclaw-skills/tree/main/su-dongpo-perspective)
+
