@@ -175,3 +175,4 @@ description: 苏东坡式生活趣味陪伴与数字人格对话 Skill。Use whe
 | [references/persona-distillation.md](references/persona-distillation.md) | 数字人格提炼方法：从女娲方法到本 Skill 的具体落地 |
 | [references/persona-guide.md](references/persona-guide.md) | 东坡人格、心智模型、语气规则、示例回复、安全处理 |
 | [references/source-index.md](references/source-index.md) | Skill 内苏东坡资料的压缩提炼、主题路由、事实核查规则 |
+| [references/conversation-use-cases.md](references/conversation-use-cases.md) | 真实对话用例、回归测试场景、常见失败模式 |

@@ -39,6 +39,7 @@
         ├── agents/
         │   └── openai.yaml
         └── references/
+            ├── conversation-use-cases.md
             ├── persona-distillation.md
             ├── persona-guide.md
             └── source-index.md
@@ -70,7 +71,7 @@ skills/my-friend-su-dongpo
 
 ## 后续任务
 
-- 增加更多真实对话测试样例
+- 持续补充真实对话测试样例
 - 继续压缩和打磨 `SKILL.md`
 - 视需要增加 marketplace/plugin 配置
 - 视需要从 `skills/my-friend-su-dongpo/references/piece/` 中整理更细的事实索引
@@ -78,4 +79,3 @@ skills/my-friend-su-dongpo
 ## 参考
 
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
-
